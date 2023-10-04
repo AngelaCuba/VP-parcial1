@@ -1,4 +1,4 @@
-package ejercicio1;
+package test.ejercicio1s;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;

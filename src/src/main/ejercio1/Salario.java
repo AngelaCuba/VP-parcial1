@@ -1,4 +1,4 @@
-package ejercio1;
+package main.ejercio1;
 
 public class Salario {
 
